@@ -1,4 +1,9 @@
-## Olá eu sou Rafael Pressendo, estudante e entusiasta de programação e tecnologia!
+## Olá eu sou Rafael Pressendo 👋
+ - --> 👨‍💻 **Estudante e entusiasta de Programação e Tecnologia!**
+ - --> 📚 **Formado em Contabilidade e atuo na área Fiscal**
+ 
+![Pressendo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbp21&show_icons=true&theme=graywhite)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
